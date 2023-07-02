@@ -1,6 +1,10 @@
 1) install tmux
 2) tmux -V to see if it is installed (3.3a in july 2023)
 3) create a file by (tmux ~/.tmux.conf)
+4) #git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
+5) to install plugins
+6) Ctrl +A , I -> reload config
+7) # Ctrl + I to install plugins
 
 
 
