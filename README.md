@@ -51,3 +51,8 @@
 | (tm) w | see all the session and window (tabs)|
 | (tm) &#x5B; | copy mode (cm)|
 
+copy more function from 16:50
+https://www.youtube.com/watch?v=U-omALWIBos&t=0s
+
+
+
